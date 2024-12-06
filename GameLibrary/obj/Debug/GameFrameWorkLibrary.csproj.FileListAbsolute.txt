@@ -1,0 +1,15 @@
+D:\c# files\GameProject\bin\Debug\GameProject.dll
+D:\c# files\GameProject\bin\Debug\GameProject.pdb
+D:\c# files\GameProject\obj\Debug\GameFrameWorkLibrary.csproj.AssemblyReference.cache
+D:\c# files\GameProject\obj\Debug\GameFrameWorkLibrary.csproj.CoreCompileInputs.cache
+D:\c# files\GameProject\obj\Debug\GameProject.dll
+D:\c# files\GameProject\obj\Debug\GameProject.pdb
+D:\c# files\TankBattle_OppProject\GameProjectLibrary\bin\Debug\GameProject.dll
+D:\c# files\TankBattle_OppProject\GameProjectLibrary\bin\Debug\GameProject.pdb
+D:\c# files\TankBattle_OppProject\GameProjectLibrary\obj\Debug\GameFrameWorkLibrary.csproj.AssemblyReference.cache
+D:\c# files\TankBattle_OppProject\GameProjectLibrary\obj\Debug\GameFrameWorkLibrary.csproj.CoreCompileInputs.cache
+D:\c# files\TankBattle_OppProject\GameProjectLibrary\obj\Debug\GameProject.dll
+D:\c# files\TankBattle_OppProject\GameProjectLibrary\obj\Debug\GameProject.pdb
+D:\c# files\TankBattle_OppProject\GameProjectLibrary\bin\Debug\EZInput.dll
+D:\c# files\TankBattle_OppProject\GameProjectLibrary\bin\Debug\EZInput.xml
+D:\c# files\TankBattle_OppProject\GameProjectLibrary\obj\Debug\GameFrameWorkLibrary.csproj.CopyComplete

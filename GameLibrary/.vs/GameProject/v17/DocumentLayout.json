@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|solutionrelative:gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|d:\\c# files\\tankbattle_oppproject\\gameprojectlibrary\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|solutionrelative:usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameProject.csproj|D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameProject.csproj|solutionrelative:usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\movements\\imovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|solutionrelative:movements\\imovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\enums\\gameobjecttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|solutionrelative:enums\\gameobjecttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\enums\\gameaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|solutionrelative:enums\\gameaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\enums\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|solutionrelative:enums\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|d:\\c# files\\tankbattle_oppproject\\gameprojectlibrary\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\movements\\verticalpatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|solutionrelative:movements\\verticalpatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\movements\\horizontalpatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|solutionrelative:movements\\horizontalpatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\movements\\keyboardmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|solutionrelative:movements\\keyboardmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\collisiondetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|solutionrelative:collisiondetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moon\\AppData\\Local\\Temp\\.vsdbgsrc\\3933a443edc8c13a8ec14a7f4d2196cd79c1d2d9f93cdf495e65585c71e37122\\UserControlTestContainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameFrameWorkLibrary.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameProject.csproj|D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727269E0-C875-4249-93CE-AF316E5BAB30}|GameProject.csproj|solutionrelative:gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\UserControl1.cs",
+              "RelativeDocumentMoniker": "UserControl1.cs",
+              "ToolTip": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\UserControl1.cs [Design]",
+              "RelativeToolTip": "UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:45:31.705Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMovement.cs",
+              "DocumentMoniker": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\Movements\\IMovement.cs",
+              "RelativeDocumentMoniker": "Movements\\IMovement.cs",
+              "ToolTip": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\Movements\\IMovement.cs",
+              "RelativeToolTip": "Movements\\IMovement.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAhwAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:31:57.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\UserControl1.cs",
+              "RelativeDocumentMoniker": "UserControl1.cs",
+              "ToolTip": "D:\\c# files\\GameProject\\UserControl1.cs [Design]",
+              "RelativeToolTip": "..\\..\\GameProject\\UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-05-01T12:30:49.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\GameObject.cs",
+              "RelativeDocumentMoniker": "GameObject.cs",
+              "ToolTip": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\GameObject.cs",
+              "RelativeToolTip": "GameObject.cs",
+              "ViewState": "AQIAAAUAAADQ//////8jwA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:37:41.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameObjectType.cs",
+              "DocumentMoniker": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\Enums\\GameObjectType.cs",
+              "RelativeDocumentMoniker": "Enums\\GameObjectType.cs",
+              "ToolTip": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\Enums\\GameObjectType.cs",
+              "RelativeToolTip": "Enums\\GameObjectType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:20:58.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameAction.cs",
+              "DocumentMoniker": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\Enums\\GameAction.cs",
+              "RelativeDocumentMoniker": "Enums\\GameAction.cs",
+              "ToolTip": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\Enums\\GameAction.cs",
+              "RelativeToolTip": "Enums\\GameAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:30:11.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\Enums\\Direction.cs",
+              "RelativeDocumentMoniker": "Enums\\Direction.cs",
+              "ToolTip": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\Enums\\Direction.cs",
+              "RelativeToolTip": "Enums\\Direction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:40:15.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AQIAABUAAAAAmP//////vyAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:30:48.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VerticalPatrol.cs",
+              "DocumentMoniker": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\Movements\\VerticalPatrol.cs",
+              "RelativeDocumentMoniker": "Movements\\VerticalPatrol.cs",
+              "ToolTip": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\Movements\\VerticalPatrol.cs",
+              "RelativeToolTip": "Movements\\VerticalPatrol.cs",
+              "ViewState": "AQIAABUAAABAZWZmZmYkwBUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:36:40.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CollisionDetection.cs",
+              "DocumentMoniker": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\CollisionDetection.cs",
+              "RelativeDocumentMoniker": "CollisionDetection.cs",
+              "ToolTip": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\CollisionDetection.cs",
+              "RelativeToolTip": "CollisionDetection.cs",
+              "ViewState": "AQIAABoAAABgzMzMzMwpwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:29:12.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HorizontalPatrol.cs",
+              "DocumentMoniker": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\Movements\\HorizontalPatrol.cs",
+              "RelativeDocumentMoniker": "Movements\\HorizontalPatrol.cs",
+              "ToolTip": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\Movements\\HorizontalPatrol.cs",
+              "RelativeToolTip": "Movements\\HorizontalPatrol.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAMCLPS4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:32:58.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KeyboardMovement.cs",
+              "DocumentMoniker": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\Movements\\KeyboardMovement.cs",
+              "RelativeDocumentMoniker": "Movements\\KeyboardMovement.cs",
+              "ToolTip": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\Movements\\KeyboardMovement.cs",
+              "RelativeToolTip": "Movements\\KeyboardMovement.cs",
+              "ViewState": "AQIAAAUAAACAMTMzM7MSwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:04:28.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserControlTestContainer.cs",
+              "DocumentMoniker": "C:\\Users\\moon\\AppData\\Local\\Temp\\.vsdbgsrc\\3933a443edc8c13a8ec14a7f4d2196cd79c1d2d9f93cdf495e65585c71e37122\\UserControlTestContainer.cs",
+              "ToolTip": "C:\\Users\\moon\\AppData\\Local\\Temp\\.vsdbgsrc\\3933a443edc8c13a8ec14a7f4d2196cd79c1d2d9f93cdf495e65585c71e37122\\UserControlTestContainer.cs",
+              "ViewState": "AQIAAAQBAAAAAAAAAAAswBIBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:44:07.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-01T13:51:40.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\GameObject.cs",
+              "RelativeDocumentMoniker": "GameObject.cs",
+              "ToolTip": "D:\\c# files\\TankBattle_OppProject\\GameProjectLibrary\\GameObject.cs",
+              "RelativeToolTip": "GameObject.cs",
+              "ViewState": "AQIAAAUAAADQ//////8jwA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:30:49.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
