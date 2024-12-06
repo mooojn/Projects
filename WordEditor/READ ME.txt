@@ -1,0 +1,5 @@
+<INSTURICTIONS>
+
+Place the ".py" file and "icons" folder, in the same directory.
+
+<END>
